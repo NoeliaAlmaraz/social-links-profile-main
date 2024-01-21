@@ -1,0 +1,37 @@
+
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    
+    box-sizing: border-box;
+    
+    
+   
+}
+
+.contenedor {
+    background-color: hsl(0, 0%, 8%);
+    padding-block: 5.5rem;
+    
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+    a {
+        color: hsl(75, 94%, 57%);
+    }
+}
+
+.contenido {
+    display: grid;
+    justify-items: center;
+    width: 22.5rem;
+    border-radius: 0.6rem;
+    margin: 0 auto;
+    background-color: hsl(0, 0%, 12%);
+    margin-bottom: 0.6rem;
+
+}
+
